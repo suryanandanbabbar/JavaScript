@@ -1,0 +1,10 @@
+body {
+    font-family: "DIN Alternate";
+    background-color: black;
+    color: white;
+}
+code {
+    background-color: rgb(44, 43, 43);
+    color: white;
+    padding: 2px;
+}
